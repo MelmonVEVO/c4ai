@@ -4,4 +4,4 @@ The bot uses [Monte Carlo Tree Search](https://en.wikipedia.org/wiki/Monte_Carlo
 
 To play, run `view.py`
 
-2018
+Made in 2018 for Computer Science A-level
